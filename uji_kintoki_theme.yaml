@@ -1,6 +1,6 @@
 # Rime theme
 
-color_scheme_ujikintoki:
+color_scheme_uji_kintoki:
   name: 宇治金時
   author: GHSRobert <robertus0617@gmail.com>
   back_color: 0xA87DC4
@@ -18,7 +18,7 @@ color_scheme_ujikintoki:
 
 #沒有用過小狼毫，以下這段的正確性待確認，請小心使用；歡迎建議修改
 style_override_weasel:
-  color_scheme: ujikintoki
+  color_scheme: uji_kintoki
 #  label_format: "%s"
 #  font_point: 14
 #  inline_preedit: true
@@ -36,7 +36,7 @@ style_override_weasel:
 
 #可在此段取代鼠鬚管 squirrel.custom.yaml 的設定。但我其實不太想干涉用戶的這些設定，那是用戶自己的偏好
 style_override_squirrel:
-  color_scheme: ujikintoki
+  color_scheme: uji_kintoki
 #  inline_preedit: true
 #  corner_radius: 0
 #  border_width: 12
