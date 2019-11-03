@@ -1,5 +1,6 @@
 # 「宇治金時」Rime 配色主題/skin/theme
 
+<div style="float: right; padding-left:2em;"><img src="https://raw.githubusercontent.com/GJRobert/rime-theme-uji_kintoki/master/screenshot.png"></div>
 
 ## 發想
 > 宇治金時（うじきんとき）是一種日本的傳統刨冰，以日式抹茶加砂糖及水煮成糖漿，淋在刨冰上，旁邊加上以砂糖熬煮的紅豆，製成色彩分明的甜品。也有人加上白色的糯米糰子，增加色彩及口感。
