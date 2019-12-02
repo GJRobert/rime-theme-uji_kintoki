@@ -3,18 +3,18 @@
 color_scheme_uji_kintoki:
   name: 宇治金時
   author: GHSRobert <robertus0617@gmail.com>
-  back_color: 0xA87DC4
-  border_color: 0xF1EBF6
-  text_color: 0x010002
-  hilited_text_color: 0x7DC4AB
-  hilited_back_color: 0x573270
-  hilited_candidate_text_color: 0x7DC4AB
-  hilited_candidate_back_color: 0x573270
-  hilited_candidate_label_color: 0xC4A47D #0x573270
-  hilited_comment_text_color: 0xC4A47D
-  candidate_text_color: 0xF1EBF6
-  comment_text_color: 0x573270 #0xC4A47D 
-  label_color: 0x32705A
+  back_color: '0xA87DC4'
+  border_color: '0xF1EBF6'
+  text_color: '0x010002'
+  hilited_text_color: '0x7DC4AB'
+  hilited_back_color: '0x573270'
+  hilited_candidate_text_color: '0x7DC4AB'
+  hilited_candidate_back_color: '0x573270'
+  hilited_candidate_label_color: '0xC4A47D' #0x573270
+  hilited_comment_text_color: '0xC4A47D'
+  candidate_text_color: '0xF1EBF6'
+  comment_text_color: '0x573270' #0xC4A47D 
+  label_color: '0x32705A'
 
 #沒有用過小狼毫，以下這段的正確性待確認，請小心使用；歡迎建議修改
 style_override_weasel:
